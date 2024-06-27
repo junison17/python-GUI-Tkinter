@@ -1,0 +1,7 @@
+openai==0.28.1
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+PyPDF2
+chromadb
